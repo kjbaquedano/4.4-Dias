@@ -1,0 +1,8 @@
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\If aninado\bin\Debug\If aninado.exe.config
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\If aninado\bin\Debug\If aninado.exe
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\If aninado\bin\Debug\If aninado.pdb
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\If aninado\obj\Debug\If aninado.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\If aninado\obj\Debug\If aninado.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\If aninado\obj\Debug\If aninado.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\If aninado\obj\Debug\If aninado.exe
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\If aninado\obj\Debug\If aninado.pdb

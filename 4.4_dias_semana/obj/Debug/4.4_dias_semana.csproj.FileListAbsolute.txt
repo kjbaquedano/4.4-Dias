@@ -1,0 +1,8 @@
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\4.4_dias_semana\obj\Debug\4.4_dias_semana.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\4.4_dias_semana\obj\Debug\4.4_dias_semana.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\4.4_dias_semana\obj\Debug\4.4_dias_semana.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\4.4_dias_semana\bin\Debug\4.4_dias_semana.exe.config
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\4.4_dias_semana\bin\Debug\4.4_dias_semana.exe
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\4.4_dias_semana\bin\Debug\4.4_dias_semana.pdb
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\4.4_dias_semana\obj\Debug\4.4_dias_semana.exe
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\4.4_dias_semana\obj\Debug\4.4_dias_semana.pdb

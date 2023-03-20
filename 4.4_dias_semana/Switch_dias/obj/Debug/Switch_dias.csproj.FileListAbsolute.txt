@@ -1,0 +1,8 @@
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\Switch_dias\obj\Debug\Switch_dias.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\Switch_dias\obj\Debug\Switch_dias.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\Switch_dias\obj\Debug\Switch_dias.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\Switch_dias\bin\Debug\Switch_dias.exe.config
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\Switch_dias\bin\Debug\Switch_dias.exe
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\Switch_dias\bin\Debug\Switch_dias.pdb
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\Switch_dias\obj\Debug\Switch_dias.exe
+C:\Users\user\OneDrive - Universidad Nacional Autónoma de Honduras\PERIODO 2023\PERIODO I\LENGUAJE I\Programas\Switch_dias\obj\Debug\Switch_dias.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLUCIONES", "SOLUCIONES", "{C8E43D62-86E0-4FF7-BB68-D944E6253CFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If aninado", "If aninado - Dias\If aninado.csproj", "{BF2D78A9-89A3-4658-8D2D-7335A8C0247E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch_dias", "Switch_dias\Switch_dias.csproj", "{0DC40B34-0742-4FBC-B152-8431FB83637C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2D78A9-89A3-4658-8D2D-7335A8C0247E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2D78A9-89A3-4658-8D2D-7335A8C0247E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2D78A9-89A3-4658-8D2D-7335A8C0247E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2D78A9-89A3-4658-8D2D-7335A8C0247E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC40B34-0742-4FBC-B152-8431FB83637C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC40B34-0742-4FBC-B152-8431FB83637C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC40B34-0742-4FBC-B152-8431FB83637C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC40B34-0742-4FBC-B152-8431FB83637C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF2D78A9-89A3-4658-8D2D-7335A8C0247E} = {C8E43D62-86E0-4FF7-BB68-D944E6253CFD}
+		{0DC40B34-0742-4FBC-B152-8431FB83637C} = {C8E43D62-86E0-4FF7-BB68-D944E6253CFD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E16484A5-98A4-4B0C-8273-1EF8C2E6813B}
+	EndGlobalSection
+EndGlobal
